@@ -26,6 +26,10 @@ Tools & Platforms
 Git & GitHub
 VS Code
 
+🔗 Portfolio Links
+🌍 Live Portfolio: https://portfolio-rust-six-um30tm8v8i.vercel.app/
+🐙 GitHub Repository: (https://github.com/amrendra168/Portfolio)
+
 ✨ Features
 Responsive portfolio website
 Modern UI/UX design
@@ -64,10 +68,3 @@ Run the development server:
 
 -npm start
 📸 Screenshots
-
-Add screenshots of your portfolio here.
-
-![Home Page](https://portfolio-rust-six-um30tm8v8i.vercel.app/)
-🔗 Live Demo
-
-🌍 Visit Portfolio
